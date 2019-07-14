@@ -6,7 +6,7 @@
 ### Шаги по настройке mongoose и подключению к базе
 1. Ставим mongoose
     ```sh
-    npm install mongoose
+    npm install mongoose -S
     ```
 2. Подключаем mongoose в express приложение
     ```js
