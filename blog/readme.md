@@ -35,7 +35,7 @@ https://github.com/Arden488/study_docs/tree/master/rest_server
 https://github.com/Arden488/study_docs/tree/master/graphql
 
 ### Схема данных
-https://github.com/study_docs/tree/master/blog/readme.md
+https://github.com/Arden488/study_docs/tree/master/blog/readme.md
 
 ### Размещение БД
 БД будет размещена на облачном сервисе MongoDB - Atlas. Туториал по настройке сервера - https://docs.atlas.mongodb.com/getting-started/
