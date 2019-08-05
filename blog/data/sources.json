@@ -1,0 +1,19 @@
+[
+  { "id": "androidinsider", "name": "Androidinsider.ru" },
+  { "id": "appleinsider", "name": "Appleinsider.ru" },
+  { "id": "akketcom", "name": "Akket.com" },
+  { "id": "ferraru", "name": "Ferra.ru" },
+  { "id": "ixbtcom", "name": "Ixbt.com" },
+  { "id": "secretmagru", "name": "Secretmag.ru" },
+  { "id": "gazetaru", "name": "Gazeta.ru" },
+  { "id": "forklogcom", "name": "Forklog.com" },
+  { "id": "goharu", "name": "Goha.ru" },
+  { "id": "rbc", "name": "RBC" },
+  { "id": "xakepru", "name": "Xakep.ru" },
+  { "id": "3dnewsru", "name": "3dnews.ru" },
+  { "id": "thegeekru", "name": "The-geek.ru" },
+  { "id": "bbcom", "name": "Bbc.com" },
+  { "id": "igromaniaru", "name": "Igromania.ru" },
+  { "id": "mailru", "name": "Mail.ru" },
+  { "id": "popmechru", "name": "Popmech.ru" }
+]
